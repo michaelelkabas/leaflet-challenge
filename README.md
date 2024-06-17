@@ -32,4 +32,4 @@ The `index.html` file sets up a web page to visualize earthquake data on a map u
 
 ## Conclusion
 
-This project provides a complete example of visualizing earthquake data, designing an ETL process, and creating an ERD for a database schema. It can be extended to include more complex transformations and relationships as needed.
+This project provides a complete example of visualizing earthquake data. It can be extended to include more complex transformations and relationships as needed. You may find the page listed as follows: https://michaelelkabas.github.io/leaflet-challenge/
